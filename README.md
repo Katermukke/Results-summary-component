@@ -1,6 +1,6 @@
 # Hi Legends 👋
 
-Creation of a challenge on the Frontend Mentor website.
+Creation of a new challenge on the Frontend Mentor website.
 
 ## The challenge
 
